@@ -1,1 +1,7 @@
-WAKE UP 我是大藝術家
+444
+var i = 0, total=0;
+
+while(i<=10){
+    total += i;
+    i++;
+}
